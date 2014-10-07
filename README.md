@@ -1,4 +1,4 @@
 Test
 ====
 
-added a  [alt text](https://github.com/Ninganagouda/Test/blob/master/video/skycons.gif "testing")
+added a  [gif](https://github.com/Ninganagouda/Test/blob/master/skycons.gif "testing")
